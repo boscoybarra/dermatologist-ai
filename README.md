@@ -7,6 +7,7 @@
 [image5]: ./images/sample_ROC_curve.png "Sample ROC curve"
 [image6]: ./images/sample_confusion_matrix.png "Sample confusion matrix"
 
+
 # Dermatologist AI
 
 ## Introduction
